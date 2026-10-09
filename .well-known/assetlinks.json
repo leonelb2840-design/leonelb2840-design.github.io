@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.leonelb2840_design.twa",
+        "sha256_cert_fingerprints": ["D3:C3:5F:7C:D9:B1:92:DB:A7:96:2D:E3:C0:A2:CE:10:B4:3E:9B:77:B4:92:AA:33:DD:E8:B4:07:C4:F5:05:C8"]
+      }
+    }]
